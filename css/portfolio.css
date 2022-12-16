@@ -13,6 +13,7 @@
 /*   height: 40vh;  */
    height: 400px;  
    width: 1200px;
+   border-radius: 10px;
 }
 .bordeado {
     border: 1px solid grey;
